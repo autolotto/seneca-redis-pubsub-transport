@@ -27,3 +27,5 @@ node_modules
 *~
 docs/annotated
 docs/coverage.html
+
+.idea/
