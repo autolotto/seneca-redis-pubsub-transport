@@ -1,6 +1,6 @@
 {
   "name": "seneca-redis-transport",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Seneca Redis transport",
   "main": "lib/index.js",
   "scripts": {
